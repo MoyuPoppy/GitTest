@@ -1,0 +1,4 @@
+repository "GitDemo@moyupoppy@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
